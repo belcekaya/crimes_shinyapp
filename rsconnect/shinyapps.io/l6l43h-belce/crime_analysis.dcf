@@ -1,0 +1,14 @@
+name: crime_analysis
+title: crime_analysis
+username:
+account: l6l43h-belce
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6350669
+bundleId: 5932561
+url: https://l6l43h-belce.shinyapps.io/crime_analysis/
+when: 1653236807.33829
+lastSyncTime: 1653236807.33829
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: 80-20_rule.pdf|calendar_heatmap.png|crime_data_2013-2015.rds|Final Project of Network Analysis.Rmd|data
